@@ -21,3 +21,6 @@ class NavigationBar():
 
     def click_to_return_and_orders_button(self):
         pass
+
+    def mistake(self):
+        pass
